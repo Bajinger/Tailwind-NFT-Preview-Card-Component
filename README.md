@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [NFT Preview Card Component](https://your-live-site-url.com)
+- Live Site URL: [NFT Preview Card Component](https://bajinger.github.io/Tailwind-NFT-Preview-Card-Component/)
 
 ## My process
 
